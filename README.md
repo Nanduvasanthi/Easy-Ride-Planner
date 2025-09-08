@@ -162,9 +162,10 @@ License
 MIT License - feel free to use and modify this project as you see fit.
 
 Customization
-Repository URL: Replace https://github.com/your-username/SmartRouteNavigator.git with your actual repo URL.
+Repository URL: https://github.com/Nanduvasanthi/Easy-Ride-Planner
 
 Additional Details: Add sections like “Screenshots,” “Known Issues,” or “Future Features” if desired.
 
 Dependencies: The list is simplified; you can run npm list --depth=0 to get the full list if needed.
 
+Live Demo: https://easyrideplanner.onrender.com/
